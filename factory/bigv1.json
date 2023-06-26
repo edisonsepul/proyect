@@ -1,0 +1,9 @@
+{
+	"name": "bigv1",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "15210c57-0e17-4605-bd45-b1904cde89d3",
+		"tenantId": "8031f20b-1d31-48d2-bd7e-8521c4e4b579"
+	}
+}
